@@ -68,15 +68,16 @@ social:
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: uploads/resume.pdf
+  link: uploads/CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
+
+# moved from below so it could be commented out
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
 ---
 
 Hello, my name is Wilson and my mission is to better characterize the hydrological environments below Antarctica’s ice sheets using remote sensing, geophysics, and modeling. I am also deeply interested in science communication and how science translates to policy. My goal is to contribute meaningful research findings, educate, and champion science-based decision making.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
