@@ -6,14 +6,14 @@ title: Wilson Sauthoff
 superuser: true
 
 # Role/position/tagline
-role: Hydrology PhD student
+role: Ph.D. Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Colorado School of Mines Hydrologic Science and Engineering Program
   url: https://hydrology.mines.edu/
 
-- name: Mines Glaciology
+- name: Mines Glaciology Laboratory
   url: https://glaciology.mines.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -21,24 +21,24 @@ bio: My research interests include computational hydrology, remote sensing, geop
 
 # Interests to show in About widget
 interests:
-- Computational hydrology
-- Remote sensing
-- Geophysics
-- Hydrologic modeling
+- computational hydrology
+- remote sensing
+- geophysics
+- hydrologic modeling
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Hydrologic Science and Engineering
+  - course: Ph.D. in Hydrologic Science and Engineering
     institution: Colorado School of Mines
     year: 2025 (expected)
-  - course: MSc in Data Science
+  - course: M.Sc. in Data Science
     institution: Colorado School of Mines
-    year: 2023 (expected)
-  - course: MSc in Oceanography
+    year: 2024 (expected)
+  - course: M.Sc. in Oceanography
     institution: University of California Santa Cruz
     year: 2016
-  - course: BSc in Environmental Science & Management
+  - course: B.Sc. in Environmental Science & Management
     institution: University of California Davis
     year: 2013
 
