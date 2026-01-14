@@ -17,7 +17,7 @@ organizations:
   url: https://glaciology.mines.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include computational hydrology, remote sensing, geophysics, and hydrologic modeling
+bio: My research interests include computational hydrology, remote sensing, geophysics, and hydrologic modeling.
 
 # Interests to show in About widget
 interests:
@@ -34,7 +34,7 @@ education:
     year: 2025 (expected)
   - course: M.Sc. in Data Science
     institution: Colorado School of Mines
-    year: 2024 (expected)
+    year: 2025
   - course: M.Sc. in Oceanography
     institution: University of California Santa Cruz
     year: 2016
