@@ -22,7 +22,6 @@ bio: My interests include satellite remote sensing and multi-sensor data fusion,
 # Interests to show in About widget
 interests:
 - Satellite remote sensing and multi-sensor data fusion
-- Infrared and multispectral imagery
 - Machine learning for detection under limited labels
 - Cloud-native geospatial data engineering
 - Wildfire, cryosphere, and environmental monitoring
