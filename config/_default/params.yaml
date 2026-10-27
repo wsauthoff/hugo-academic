@@ -20,7 +20,6 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: sauthoff@mines.edu
 #phone: 888 888 88 88
 # address:
 #   street: 450 Serra Mall
@@ -38,10 +37,6 @@ email: sauthoff@mines.edu
 #   - 'Wednesday 09:00 to 10:00'
 # appointment_url: 'https://doodle.com/mm/wilsonsauthoff/book-a-time'
 contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: Twitter DM
-    link: 'https://twitter.com/wilsonsauthoff'
   # - icon: skype
   #   icon_pack: fab
   #   name: Skype Me
