@@ -6,7 +6,7 @@ title: Wilson Sauthoff
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Candidate
+role: Remote sensing data scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -82,6 +82,6 @@ highlight_name: true
 # {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
 ---
 
-Hello, I’m Wilson, a remote sensing data scientist who turns large, messy satellite datasets into reliable products people can act on. In my Ph.D. research at the Colorado School of Mines, I built a detection pipeline that fuses radar and laser altimetry across roughly 700 million observations to find active lakes hidden beneath Antarctica’s ice sheet. At an industry PhD internship, I have applied machine learning on satellite remote sensing data for wildfire early detection.
+Hello, I’m Wilson, a remote sensing data scientist who turns large, messy satellite datasets into reliable products people can act on. In my PhD research at the Colorado School of Mines, I built a detection pipeline that fuses radar and laser altimetry across roughly 700 million observations to find active lakes hidden beneath Antarctica’s ice sheet. At an industry PhD internship, I have applied machine learning on satellite remote sensing data for wildfire early detection.
 
 Across both, the problems that interest me most are finding rare signals in big Earth observation data, validating results when ground truth is sparse, and building cloud-native pipelines that move algorithms from prototype to production. I also care about communicating science clearly, whether in a design document, a conference session, or an open-source tutorial. I’m finishing my Ph.D. in December 2026 and am looking for roles building data products from Earth observation missions.
