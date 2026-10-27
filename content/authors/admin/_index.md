@@ -17,21 +17,23 @@ organizations:
   url: https://glaciology.mines.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include computational hydrology, remote sensing, geophysics, and hydrologic modeling.
+bio: My interests include satellite remote sensing and multi-sensor data fusion, machine learning for detection under limited labels, and cloud-native geospatial data engineering.
 
 # Interests to show in About widget
 interests:
-- computational hydrology
-- remote sensing
-- geophysics
-- hydrologic modeling
+- Satellite remote sensing and multi-sensor data fusion
+- Infrared and multispectral imagery
+- Machine learning for detection under limited labels
+- Cloud-native geospatial data engineering
+- Wildfire, cryosphere, and environmental monitoring
+- Science communication and open science
 
 # Education to show in About widget
 education:
   courses:
   - course: Ph.D. in Hydrologic Science and Engineering
     institution: Colorado School of Mines
-    year: 2025 (expected)
+    year: December 2026 (expected)
   - course: M.Sc. in Data Science
     institution: Colorado School of Mines
     year: 2025
@@ -80,4 +82,6 @@ highlight_name: true
 # {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
 ---
 
-Hello, my name is Wilson and my mission is to better characterize the hydrological environments below Antarctica’s ice sheets using remote sensing, geophysics, and modeling. I am also deeply interested in science communication and how science translates to policy. My goal is to contribute meaningful research findings, educate, and champion science-based decision making.
+Hello, I’m Wilson, a remote sensing data scientist who turns large, messy satellite datasets into reliable products people can act on. In my Ph.D. research at the Colorado School of Mines, I built a detection pipeline that fuses radar and laser altimetry across roughly 700 million observations to find active lakes hidden beneath Antarctica’s ice sheet. At an industry PhD internship, I have applied machine learning on satellite remote sensing data for wildfire early detection.
+
+Across both, the problems that interest me most are finding rare signals in big Earth observation data, validating results when ground truth is sparse, and building cloud-native pipelines that move algorithms from prototype to production. I also care about communicating science clearly, whether in a design document, a conference session, or an open-source tutorial. I’m finishing my Ph.D. in December 2026 and am looking for roles building data products from Earth observation missions.
